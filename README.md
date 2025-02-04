@@ -12,7 +12,7 @@ python -m venv silence-removal
 
 **Clone the repository**
 ```bash
-git clone <repo-url>
+git clone https://github.com/rrokutaro/video-silence-remover.git
 cd silence-removal
 ```
 <br>
